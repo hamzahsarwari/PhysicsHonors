@@ -1,0 +1,15 @@
+#include<iostream>
+#include<string>
+void programStart();
+string studentName;
+using namespace std;
+
+int main(){
+    std::cout << "Hello And Welcome To This Program! What Is Your Name?" << '\n';
+  getline(cin, studentName);
+}
+
+
+
+
+}
